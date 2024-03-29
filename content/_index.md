@@ -59,23 +59,23 @@ sections:
       title: 'Work Experience'
       #subtitle: 'Diebian Aspiration - Planner'
       text: |
-        ## Diebian Aspiration - Planner (Hohhot, China | June 2022 - July 2023)
+        ## **Diebian Aspiration - Planner (Hohhot, China | June 2022 - July 2023)**
 
-        *      Communicated with college entrance examination candidates and helped establish the future career development plan.
+        *     · Communicated with college entrance examination candidates and helped establish the future career development plan.
 
-        *      Searched for a large amount of university information suitable for the students such as ranking, location and enrollment score, etc.
+        *     · Searched for a large amount of university information suitable for the students such as ranking, location and enrollment score, etc.
 
-        *      Assisted in logging in and operating the college application system.
+        *     · Assisted in logging in and operating the college application system.
   - block: markdown
     id: Extracurricular_Activities
     content: 
       title: 'Extracurricular Activities'
       #subtitle: 'Diebian Aspiration - Planner'
       text: |
-        ## Volunteer (Beijing, China | Nov 2020 - May 2021)
+        ## **Volunteer (Beijing, China | Nov 2020 - May 2021)**
 
         *      12th “LiangXi Cup” College Students Extracurricular Academic Technological Works Competition of Beijing Forestry University
 
-        ## Member and Operator (Beijing, China | Nov 2020 - May 2021)
+        ## **Member and Operator (Beijing, China | Nov 2020 - May 2021)**
         *      Science Association of Beijing Forestry University
 ---
