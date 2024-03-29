@@ -61,10 +61,10 @@ sections:
       text: |
         ## Diebian Aspiration - Planner
 
-        * &ensp Communicated with college entrance examination candidates and helped establish the future career development plan.
+        *      Communicated with college entrance examination candidates and helped establish the future career development plan.
 
-        * &ensp Searched for a large amount of university information suitable for the students such as ranking, location and enrollment score, etc.
+        *      Searched for a large amount of university information suitable for the students such as ranking, location and enrollment score, etc.
 
-        * &ensp Assisted in logging in and operating the college application system.
+        *      Assisted in logging in and operating the college application system.
 
 ---
