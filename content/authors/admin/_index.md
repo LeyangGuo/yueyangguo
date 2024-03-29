@@ -43,61 +43,53 @@ education:
   - area: Bachelor of Science in Biotechnology
     institution: Beijing Forestry University
     date_start: 2020-09-01
-    date_end: 2023-07-31
+    date_end: 2023-07-01
     summary: |
       **GPA: 81.17/100**
       
-      Selected Courses:
-      Genetics 85%, Biochemistry A 87%, Cell Biology 82%, The Experiment of Biochemistry and Molecular Biology 89%, Experiment of Genetics 88%, Experiment of Cell Biology 87%
+      **Selected Courses:**
 
+      - Genetics 85%
+      - Biochemistry A 87%
+      - Cell Biology 82%
+      - The Experiment of Biochemistry and Molecular Biology 89% 
+      - Experiment of Genetics 88%
+      - Experiment of Cell Biology 87%
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Science in Forest Science
+    institution: University of British Columbia
+    date_start: 2023-08-01
+    date_end: 2025-04-30
     summary: |
-      GPA: 3.8/4.0
+      GPA: 83/100
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      **Selected Courses:**
+
+      - FRST 305 Silviculture 89%(A)
+      - FRST 320 Abiotic Disturbances: Fire and Climate 83%(A-)
+      - FRST 395 Wildlife Ecology and Management 82%(A-)
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  #- position: Planner
+  #  company_name: Diebian Aspiration
+  #  date_start: 2022-06-01
+  #  date_end: 2022-07-20
+  #  summary: |2-
+  #    Responsibilities include:
+  #    NAN
+  - position: |
+      The G2-Like Gene Family in Populus Trichocarpa: Identification,Evolution and Expression Profiles
+    company_name: |
+      Supervisor: Ruihua Wu
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Aimed to provide comprehensive information on the PtGLK gene family and elucidate the potential functional characterization of PtGLK genes in P. trichocarpa;
+      - Analyzed data using web-based tools and Jupyter Notebook, e.g., promoter analysis;
+      - Conducted MEME analysis, CDS position plot, protein 3D structure prediction, RNA hot map plot and validation, etc., contributing to the project progress.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
