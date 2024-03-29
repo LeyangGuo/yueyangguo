@@ -55,7 +55,7 @@ sections:
       username: admin
   - block: markdown
     content: ""
-    button:
-      text: Download CV (pdf)
-      url: uploads/YueyangGuo_CV.pdf
+      button:
+        text: Download CV (pdf)
+        url: uploads/YueyangGuo_CV.pdf
 ---
