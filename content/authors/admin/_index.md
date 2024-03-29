@@ -97,7 +97,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 
     items:
       - name: Python
         description: ''
@@ -119,15 +119,15 @@ skills:
       - name: C
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: devicon/c
       - name: Rust
         description: ''
         percent: 60
-        icon: cat
+        icon: devicon/rust
       - name: Arduino
         description: ''
         percent: 90
-        icon: camera
+        icon: devicon/arduino
 
 languages:
   - name: English
