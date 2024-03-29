@@ -25,6 +25,15 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
+  sections: # email and phone
+  - block: markdown
+    id: contact
+    content:
+      title: ""
+      subtitle: ""
+      text: |
+        [pika1218@student.ubc.ca](mailto:pika1218@student.ubc.ca)   
+        [+1 236.865.6921](tel:+12368656921)
   - block: experience
     content:
       username: admin
