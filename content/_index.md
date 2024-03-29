@@ -54,10 +54,10 @@ sections:
       title: Languages
       username: admin
   - block: markdown
-    title: ""
-    subtitle: ""
-    content:
-      button:
-        text: Download CV (pdf)
-        url: uploads/YueyangGuo_CV.pdf
+    title: "WORK EXPERIENCE"
+    subtitle: "Diebian Aspiration - Planner"
+    content: |
+      - Communicated with college entrance examination candidates and helped establish the future career development plan.
+      - Searched for a large amount of university information suitable for the students such as ranking, location and enrollment score, etc.
+      - Assisted in logging in and operating the college application system.
 ---
