@@ -57,10 +57,14 @@ sections:
     id: work_experience
     content: 
       title: 'WORK EXPERIENCE'
-      subtitle: 'Diebian Aspiration - Planner'
+      #subtitle: 'Diebian Aspiration - Planner'
       text: |
-        - Communicated with college entrance examination candidates and helped establish the future career development plan.
-        - Searched for a large amount of university information suitable for the students such as ranking, location and enrollment score, etc.
-        - Assisted in logging in and operating the college application system.
+        <h3>Diebian Aspiration - Planner<\h3>
+
+        * Communicated with college entrance examination candidates and helped establish the future career development plan.
+
+        * Searched for a large amount of university information suitable for the students such as ranking, location and enrollment score, etc.
+        
+        * Assisted in logging in and operating the college application system.
 
 ---
