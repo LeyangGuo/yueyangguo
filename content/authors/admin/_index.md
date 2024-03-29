@@ -1,51 +1,54 @@
 ---
 # Display name
-title: 吳健雄
+title: Yueyang Guo
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yueyang
+last_name: Guo
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🔬
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Biotechnology / Forest Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: University of British Columbia
+    url: https://forestry.ubc.ca/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:pika1218@student.ubc.ca'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/github
+  #  url: https://github.com/gcushen
+  #- icon: brands/linkedin
+  #  url: https://www.linkedin.com/
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Science in Biotechnology
+    institution: Beijing Forestry University
+    date_start: 2020-09
+    date_end: 2023-07
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    **GPA: 81.17/100.**
+      
+    **Selected Courses**: Genetics 85%, Biochemistry A 87%, Cell Biology 82%, The Experiment of Biochemistry and Molecular Biology 89%, Experiment of Genetics 88%, Experiment of Cell Biology 87%
+
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
