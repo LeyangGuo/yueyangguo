@@ -56,7 +56,7 @@ sections:
   - block: markdown
     id: work_experience
     content: 
-      title: 'WORK EXPERIENCE'
+      title: 'Work Experience'
       #subtitle: 'Diebian Aspiration - Planner'
       text: |
         ## Diebian Aspiration - Planner
