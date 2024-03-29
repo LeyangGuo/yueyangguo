@@ -90,6 +90,9 @@ work:
       - Aimed to provide comprehensive information on the PtGLK gene family and elucidate the potential functional characterization of PtGLK genes in P. trichocarpa;
       - Analyzed data using web-based tools and Jupyter Notebook, e.g., promoter analysis;
       - Conducted MEME analysis, CDS position plot, protein 3D structure prediction, RNA hot map plot and validation, etc., contributing to the project progress.
+    button:
+      text: 'Article Link'
+      url: 'https://doi.org/10.1186/s12863-023-01138-1'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -98,40 +101,39 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 99
         icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
       - name: PyTorch
         description: ''
-        percent: 40
+        percent: 60
         icon: devicon/pytorch
-  - name: Hobbies
+      - name: RStudio
+        description: ''
+        percent: 40
+        icon: devicon/rstudio
+
+  - name:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: C
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Rust
         description: ''
-        percent: 100
+        percent: 60
         icon: cat
-      - name: Photography
+      - name: Arduino
         description: ''
-        percent: 80
+        percent: 90
         icon: camera
 
 languages:
   - name: English
-    percent: 100
+    percent: 78
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
