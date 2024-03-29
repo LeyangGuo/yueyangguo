@@ -54,8 +54,8 @@ sections:
       title: Languages
       username: admin
   - block: markdown
-    title: "WORK EXPERIENCE"
-    subtitle: "Diebian Aspiration - Planner"
+    title: 'WORK EXPERIENCE'
+    subtitle: 'Diebian Aspiration - Planner'
     content: |
       - Communicated with college entrance examination candidates and helped establish the future career development plan.
       - Searched for a large amount of university information suitable for the students such as ranking, location and enrollment score, etc.
