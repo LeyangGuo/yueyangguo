@@ -54,7 +54,9 @@ sections:
       title: Languages
       username: admin
   - block: markdown
-    content: ""
+    title: ""
+    subtitle: ""
+    content:
       button:
         text: Download CV (pdf)
         url: uploads/YueyangGuo_CV.pdf
