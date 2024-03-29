@@ -16,7 +16,7 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
+        text: Download Résumé (pdf)
         url: uploads/resume.pdf
     design:
       banner:
@@ -35,12 +35,12 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: admin
-  - block: awards
-    content:
-      title: Awards
-      username: admin
+  #- block: awards
+  #  content:
+  #    title: Awards
+  #    username: admin
   - block: languages
     content:
       title: Languages

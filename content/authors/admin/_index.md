@@ -27,7 +27,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: fas/envelope
     url: 'mailto:pika1218@student.ubc.ca'
     label: E-mail Me
   #- icon: brands/x
