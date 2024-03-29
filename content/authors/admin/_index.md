@@ -45,13 +45,14 @@ education:
     date_start: 2020-09
     date_end: 2023-07
     summary: |
-    **GPA: 81.17/100.**
+      **GPA: 81.17/100**
       
-    **Selected Courses**: Genetics 85%, Biochemistry A 87%, Cell Biology 82%, The Experiment of Biochemistry and Molecular Biology 89%, Experiment of Genetics 88%, Experiment of Cell Biology 87%
+      Selected Courses:
+      Genetics 85%, Biochemistry A 87%, Cell Biology 82%, The Experiment of Biochemistry and Molecular Biology 89%, Experiment of Genetics 88%, Experiment of Cell Biology 87%
 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
