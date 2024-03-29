@@ -74,8 +74,8 @@ sections:
       text: |
         ## **Volunteer (Beijing, China | Nov 2020 - May 2021)**
 
-        *      12th “LiangXi Cup” College Students Extracurricular Academic Technological Works Competition of Beijing Forestry University
+        12th “LiangXi Cup” College Students Extracurricular Academic Technological Works Competition of Beijing Forestry University
 
         ## **Member and Operator (Beijing, China | Nov 2020 - May 2021)**
-        *      Science Association of Beijing Forestry University
+        Science Association of Beijing Forestry University
 ---
