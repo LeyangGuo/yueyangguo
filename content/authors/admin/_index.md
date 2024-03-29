@@ -42,8 +42,8 @@ profiles:
 education:
   - area: Bachelor of Science in Biotechnology
     institution: Beijing Forestry University
-    date_start: 2020-09
-    date_end: 2023-07
+    date_start: 2020-09-01
+    date_end: 2023-07-31
     summary: |
       **GPA: 81.17/100**
       
