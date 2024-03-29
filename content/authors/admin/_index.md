@@ -27,7 +27,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: fas/envelope
+  - icon: hero/envelope
     url: 'mailto:pika1218@student.ubc.ca'
     label: E-mail Me
   #- icon: brands/x
@@ -91,6 +91,7 @@ work:
       - Analyzed data using web-based tools and Jupyter Notebook, e.g., promoter analysis;
       - Conducted MEME analysis, CDS position plot, protein 3D structure prediction, RNA hot map plot and validation, etc., contributing to the project progress.
     button:
+      icon: academicons/open-access
       text: 'Article Link'
       url: 'https://doi.org/10.1186/s12863-023-01138-1'
 
