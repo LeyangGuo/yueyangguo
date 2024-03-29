@@ -30,6 +30,7 @@ profiles:
   - icon: hero/envelope
     url: 'mailto:pika1218@student.ubc.ca'
     label: pika1218@student.ubc.ca
+    text: pika1218@student.ubc.ca
   - icon: hero/phone
     url: 'tel:+12368656921'
     label: |
