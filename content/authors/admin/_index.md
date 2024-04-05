@@ -111,11 +111,11 @@ skills:
         icon: devicon/python
       - name: PyTorch
         description: ''
-        percent: 60
+        percent: 40
         icon: devicon/pytorch
       - name: RStudio
         description: ''
-        percent: 40
+        percent: 70
         icon: devicon/rstudio
 
   - name:
@@ -124,7 +124,7 @@ skills:
     items:
       - name: C
         description: ''
-        percent: 60
+        percent: 50
         icon: devicon/c
       - name: Rust
         description: ''
